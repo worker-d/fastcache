@@ -1,6 +1,6 @@
 module github.com/VictoriaMetrics/fastcache
 
-go 1.24.0
+go 1.24
 
 require (
 	github.com/allegro/bigcache v1.2.1-0.20190218064605-e24eb225f156
